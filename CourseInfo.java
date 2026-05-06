@@ -1,4 +1,5 @@
-package lab10;
+//Course Name, this will be hardcoded
+//Created By: Joshua Bodde
 
 public class CourseInfo {
 
