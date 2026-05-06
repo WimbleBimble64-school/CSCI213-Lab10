@@ -2,7 +2,7 @@
   For this section we are doing the same thing but adding classTime and number of students (Hard Coded)
   Author: Joshua Bodde
 */
-public CourseInfoUpdated{
+public class CourseInfoUpdated{
 
   public static void main(String[] args){
     System.out.println("Course Name: Object-Oriented Programming");
