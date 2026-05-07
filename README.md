@@ -14,7 +14,7 @@ The main method prints:
 - time
 - numberOfStudents
 
-***Bold and Italic***
+
 **Bold**
 
 
