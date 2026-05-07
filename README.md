@@ -15,7 +15,6 @@ The main method prints:
 - numberOfStudents
 
 
-**Bold**
 
 
 ## Extra Item
