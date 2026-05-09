@@ -1,6 +1,6 @@
-# PRINTING COURSE INFORMATION
+**PRINTING COURSE INFORMATION
 
-## Author: Joshua Bodde
+***Author: Joshua Bodde***
 
 This is the Git lab for CSCI 213 Software Development. One class was added, CourseInfo.java
 
